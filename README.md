@@ -4,7 +4,6 @@
 
 ### Bievenido al repositorio de [usach.dev](https://www.devusach.me), una página informativa para estudiantes del Departamento de Ingeniería Informática de la Universidad de Santiago de Chile
 
-En esta página se informará distintos temas, sobre como aprender sobre un ramo hasta recomendaciones para el futuro de la carrera de uno.
+RESPALDO Y DOMINIO DEL REPOSITORIO DE https://github.com/Bescri/usach.dev
 
 <p align="center">
- https://bescri.github.io/usach.dev/</p>
